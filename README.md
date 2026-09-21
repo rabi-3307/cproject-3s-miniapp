@@ -43,3 +43,5 @@ Windowsでは `janken_rpg.exe` が作られます。日本語が文字化けす�
 ## 実行画面
 
 （ここに、実行画面のスクリーンショットを貼ります）
+<img width="236" height="316" alt="image" src="https://github.com/user-attachments/assets/47d2f83e-d33b-4e9e-b40d-7e1178974ecf" />
+
