@@ -1,0 +1,9 @@
+# ビルドで生成されるファイル
+*.exe
+*.o
+*.obj
+*.out
+a.out
+
+# VS Code の設定
+.vscode/
